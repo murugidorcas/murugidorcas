@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murugidorcas
 - 👀 I’m interested in ...mobile app development.
-- 🌱 I’m currently learning ...flutter, java, c++
+- 🌱 I’m currently learning ...flutter,c++
 - 💞️ I’m looking to collaborate on ...any project related to my interests and also anything outside them
 - 📫 How to reach me ... dorcasmurugi2490@gmail.com
 - 😄 Pronouns: ...she/her
